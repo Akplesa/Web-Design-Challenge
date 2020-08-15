@@ -1,0 +1,54 @@
+
+     
+/* Giving our navbar some padding and a background color */
+.navbar {
+    padding: 10px;
+    background: #f5f5f7;
+  }
+
+
+/* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line. Floats could have been used too */
+.navbar li {
+display: inline-block;
+padding: 20px;
+padding-top: 5ch;
+padding-bottom: 19ch;
+margin-right: 0px;
+margin-left: 0px;
+cursor: pointer;
+background: #17a2b8;
+border-radius: 0px;
+}
+/* Getting rid of the default link styles here */
+.navbar li a {
+color: rgb(253, 253, 253);
+text-decoration: none;
+font-family: serif;
+font-weight: bold;
+text-align: center ;
+border-right: 1px solid 
+}
+
+  .margin-top-80 {
+    margin-top: 100px;
+  }
+  .box-set {
+    position: relative;
+    height: 900px;
+    width: 5000px;
+    background: lightgray;
+  }
+  
+  .box {
+    position: relative;
+    width: 510px;
+    height: 400px;
+    background: #f4f5f4;
+    border: 2px solid black;
+  }
+  .box-1 {
+    top: 6%;
+    left: 10%;
+ 
+
+ 
