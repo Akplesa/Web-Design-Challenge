@@ -1,0 +1,36 @@
+body{
+    background-color: lightgray;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .box{
+    background-color: white;
+  }
+  
+.navigation .navbar-brand{
+  color: white;
+  background-color: rgb(34, 163, 163);
+  font-weight: bold;
+}
+  
+.navbar{
+  background: white;
+}
+
+  .title{
+    color: rgb(13, 138, 138);
+    font-weight: bold;
+    font-family:serif;
+  }
+
+    .container{
+    background: white
+  }
+  
+  img{
+    height:auto;
+    margin-left: 40px;
+    display: block;
+  }
+  
